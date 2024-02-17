@@ -75,13 +75,13 @@ nav .lan-en {
 
 .stay-search input {
   padding: 10px 20px;
-  width: 270px;
+  width: 420px;
 }
 
 .stay-search {
   display: flex;
   margin-top: 110px;
-  width: 60%;
+  width: 90%;
   justify-content: center;
   background-color: orange;
   padding: 5px 5px;
