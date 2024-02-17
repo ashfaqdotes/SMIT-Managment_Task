@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 400px;
+  padding-top: 10px;
+  background-color: #003b95;
+}
+
+/* Navbar */
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+.navbar a span {
+  cursor: pointer;
+}
+
+.navbar img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+}
+
+.navbar .btn {
+  color: #003b95;
+  background-color: white;
+}
+
+.navbar button {
+  margin-right: 10px;
+}
+
+nav .lan-en {
+  cursor: pointer;
+}
+
+.button-nav button {
+  color: white;
+  margin-left: 5px;
+  background-color: #003b95;
+  outline: none;
+  border: none;
+  padding: 10px 10px;
+}
+
+.button-nav button:hover {
+  border-radius: 50px;
+  border: 1px solid white;
+  background-color: #182d4d85;
+}
+
+.Find-stay {
+  margin: 50px;
+  color: white;
+}
+
+.find-box {
+  display: flex;
+  justify-content: center;
+}
+
+.stay-search input {
+  padding: 10px 20px;
+  width: 270px;
+}
+
+.stay-search {
+  display: flex;
+  margin-top: 110px;
+  width: 60%;
+  justify-content: center;
+  background-color: orange;
+  padding: 5px 5px;
+  border-radius: 10px;
+}
+
+.find-box button {
+  color: white;
+  background-color: #003b95;
+  padding: 10px 10px;
+
+}
